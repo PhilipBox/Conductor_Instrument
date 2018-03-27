@@ -1,6 +1,6 @@
 # Conductor Instrument
 
-**Conductor Instrument** is the Robot Engineering Term Project that using `Arduino Uno` and `MPR121` sensor.
+**Conductor Instrument** is the Robotic Programming Term Project that using `Arduino Uno` and `MPR121` sensor.
 <br>
 ` MPR121` is electrostatic touch sensor.
 <br>
@@ -40,4 +40,4 @@ Final product and circuit diagram are as follows.
  
  <br><br>
  
-### This project was progressed in Robotics Engineering lecture at Gachon University, Department of Software.
+### This project was progressed in Robotic Programming lecture at Gachon University, Department of Software.
